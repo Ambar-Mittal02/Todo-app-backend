@@ -1,0 +1,5 @@
+src/p2g-env/*
+
+**/__pycache__/
+
+*.pyc
